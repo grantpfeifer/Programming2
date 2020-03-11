@@ -1,0 +1,7 @@
+Room,North,South,East,West,Title,Description
+0,1,3,5,2,Cafeteria,"You are at a restaurant eating the ""Chef's Surprise"". In the background, someone mutters, ""prepared properly, cat tastes like chicken!"""
+1,-1,0,-1,-1,Witches' Lair,"Bubble, bubble, toil and trouble, the cauldron in this Witches' Lair steams and sizzles."
+2,4,3,0,-1,Pokagon State Park,You're at the entrance to Pokagon State Park. An employee informs you that it costs $7 to enter.
+3,0,-1,5,2,Dr. Estell's Office,"You're in Dr. Estell's office, admiring all of his barnyard photos that have inspired countless MP assignments."
+4,-1,2,1,-1,Kennedy Lobby,"You're sitting by yourself playing ""Cubes for the Lonely"" in the lobby of Kennedy."
+5,0,-1,-1,3,Tundra,You are walking on the Tundra. 
